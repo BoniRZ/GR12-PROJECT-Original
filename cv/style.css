@@ -1,0 +1,82 @@
+[09:12, 20/02/2026] Julien: body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#e6ecf2;
+}
+
+.cv{
+    width:900px;
+    margin:20px auto;
+    display:flex;
+    background:white;
+    box-shadow:0 0 12px rgba(0,0,0,0.2);
+}
+
+/* LEFT */
+.left{
+    width:35%;
+    background:#1f3a5f;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+.left img{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    object-fit:cover;
+}
+
+.name{
+    margin:10px 0 0 0;
+}
+
+.title{
+    margin-top:2px;
+    color:#aad4ff;
+}
+
+.section{
+    margin-top:25px;
+    text-align:left;
+}
+
+.section h3{
+    border-bottom:1px solid #aac8e6;
+    padding-bottom:5px;
+}
+
+/* RIGHT */
+.right{
+    width:65%;
+    padding:25px;
+}
+
+.right h2{
+    color:#1f3a5f;
+    border-bottom:2px solid #1f3a5f;
+    padding-bottom:5px;
+}
+
+.item{
+    margin-top:10px;
+}
+
+/* SKILL BAR */
+.bar{
+    background:#ddd;
+    height:8px;
+    border-radius:5px;
+    margin-bottom:10px;
+}
+
+.fill{
+    background:#3498db;
+    height:8px;
+    border-radius:5px;
+}
+
+.w80{ width:80%; }
+.w70{ width:10%; }
+.w60{ width:60%; }
