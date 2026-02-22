@@ -12,7 +12,6 @@
     box-shadow:0 0 12px rgba(0,0,0,0.2);
 }
 
-/* LEFT */
 .left{
     width:35%;
     background:#1f3a5f;
@@ -47,7 +46,6 @@
     padding-bottom:5px;
 }
 
-/* RIGHT */
 .right{
     width:65%;
     padding:25px;
@@ -63,7 +61,6 @@
     margin-top:10px;
 }
 
-/* SKILL BAR */
 .bar{
     background:#ddd;
     height:8px;
@@ -80,3 +77,4 @@
 .w80{ width:80%; }
 .w70{ width:10%; }
 .w60{ width:60%; }
+
