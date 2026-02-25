@@ -1,0 +1,50 @@
+div.gen{
+display: flex;
+background-color: #1E293B;
+width: 100%;
+padding: 2%;
+}
+
+img{
+height:120px;
+width:120px;
+border-radius: 15px;}
+
+.Info1{
+padding:2%;
+border-radius:24px;
+background-color: #1E3A8A;
+color:#FFFFFF;
+text-align:left;
+margin-right: 2%;
+}
+
+.Info2{
+padding:2%;
+background-color: #F1F5F9;
+color: #1E293B;
+border-radius: 24px;
+text-align: center;
+}
+
+h1{
+    margin-bottom: 12px;
+    justify-content: center;
+    text-decoration: underline solid;
+   
+}
+
+.Info1 h2{
+justify-content: space-between;
+text-decoration: underline;}
+
+.Info2 h2{
+margin-left: 12px;
+text-align: center;
+}
+
+p{
+text-align: left;}
+
+b{
+text-decoration: underline;}
