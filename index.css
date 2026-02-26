@@ -109,9 +109,8 @@ background: #0f172a;
 color: white;
 display: grid;
 padding: 10px;
-padding-left: 30px;
 justify-content:center;
-border-radius: 10px;
+border-radius:10px;
 align-items: center;
 height: 240px;
 flex-direction: column;
@@ -127,11 +126,12 @@ box-shadow:0 10px 30px rgba(0, 191,255,0.4);
 }
 
 .card img{
-justify-items: center;
-margin-left: 25%;
-height: 40%;
-width: 25%;
-border-radius: 12px;
+justify-content: center;
+align-items: center;
+margin-left:37.5%;
+height: 50px;
+width: 60px;
+border-radius: 4px;
 }
 
 .card h2{
